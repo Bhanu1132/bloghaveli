@@ -248,5 +248,8 @@
         margin-top: 20px;
         height: 95%;
     }
+    .btn {
+    margin-top: 10px;
+    }
 
 }
