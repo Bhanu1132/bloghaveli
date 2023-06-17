@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+#whole-container {
+    font-family: 'Kanit', sans-serif;
+    background: linear-gradient(180deg, #FFB7B7 0%, #727272 100%), radial-gradient(60.91% 100% at 50% 0%, #FFD1D1 0%, #260000 100%), linear-gradient(238.72deg, #FFDDDD 0%, #720066 100%), linear-gradient(127.43deg, #00FFFF 0%, #FF4444 100%), radial-gradient(100.22% 100% at 70.57% 0%, #FF0000 0%, #00FFE0 100%), linear-gradient(127.43deg, #B7D500 0%, #3300FF 100%);
+    background-blend-mode: screen, overlay, hard-light, color-burn, color-dodge, normal;
+    padding: 20px 80px;
+
+}
+
+.navbarglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+}
+
+.homeglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Aboutusglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Servicesglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Internshipsglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Contactusglasstransparent {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* row */
+
+.homeglasstransparentrow {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Aboutusglasstransparentrow {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Servicesglasstransparentrow {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Internshipsglasstransparentrow {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Contactusglasstransparentrow {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* innertags */
+
+.bolgHaveliHeadings {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(111, 0, 255);
+}
+
+.agency {
+    font-size: 24px;
+    color: black;
+}
+
+/* About-us */
+
+.profit {
+    font-size: 24px;
+    color: black;
+}
+
+.AboutUsheading {
+    font-size: 30px;
+    color: #2759ff;
+}
+
+/* services */
+
+.Uxservice {
+    font-size: 24px;
+    color: black;
+}
+
+.UxservicesHeading {
+    color: #2759ff;
+    font-size: 30px;
+}
+
+/* internships */
+
+.internship {
+    font-size: 24px;
+    color: black;
+}
+
+.internshipHeading {
+    color: #2759ff;
+    font-size: 30px;
+}
+
+/* contactUs */
+
+.profit1 {
+    font-size: 24px;
+    color: black;
+}
+
+.ContactUsHeading {
+    color: #2759ff;
+    font-size: 30px;
+}
+
+
+.Contactusglasstransparentrowbg {
+    background: rgba(255, 255, 255, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.1px);
+    -webkit-backdrop-filter: blur(6.1px);
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    padding-bottom: 10px;
+}
+
+
+.simage {
+    margin-top: 64px;
+    transition: width 2s;
+}
+
+.timage {
+    margin-top: 36px;
+    transition: width 2s;
+}
+
+.frimage {
+    margin-top: 75px;
+    transition: width 2s;
+}
+
+
+.simage:hover {
+
+
+    width: 300px;
+}
+
+.timage:hover {
+
+
+    width: 300px;
+}
+
+.frimage:hover {
+
+
+    width: 300px;
+}
+
+
+.Internshipss {
+    font-size: 24px;
+}
+
+.Servicess {
+    font-size: 24px;
+}
+
+.Aboutuss {
+    font-size: 24px;
+}
+
+.Contactuss {
+    font-size: 24px;
+}
+
+@media (max-width: 768px) {
+
+    .simage,
+    .timage,
+    .frimage,
+    .fimage {
+        margin: 0;
+        width: 100%;
+        height: 70%;
+    }
+
+    #whole-container {
+        padding: 0 30px;
+    }
+
+    .fimage {
+        margin-top: 20px;
+        height: 95%;
+    }
+
+}
